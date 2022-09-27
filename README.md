@@ -14,6 +14,8 @@ Books that I've read, am reading and will read (or will never read)
 - Throwing rocks at the Google bus
 - Principles by Ray Dalio
 - The Dark Net
+- Cracking the Coding Interview
+- The Algorithm Design Manual
 - The Art of Intrusion
 - The Bogleheads' Guide to Investing
 
