@@ -18,7 +18,7 @@ Books that I've read, am reading and will read (or will never read)
 - The Algorithm Design Manual
 - The Art of Intrusion
 - The Bogleheads' Guide to Investing
-
+- [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 ## Books that I will read next
 - Homo Deus
