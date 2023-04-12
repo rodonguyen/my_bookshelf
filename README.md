@@ -13,12 +13,14 @@ Books that I've read, am reading and will read (or will never read)
 1. 21 lessons for the 21st century
 1. Cracking the Coding Interview (50%)
 1. The Algorithm Design Manual (50%)
+1. Throwing rocks at the Google bus (50%)  <!-- Next half is hard to understand/boring -->
 
 ## I'm reading
-1. Throwing rocks at the Google bus (50%)  <!-- Next half is hard to understand/boring -->
+1. Homo Deus
+1. The 3rd Door
+1. The Principles for dealing with The Changing World Order - Ray Dalio
 1. The Art of Intrusion (50%)
 1. Principles by Ray Dalio
-1. Homo Deus
 1. The Dark Net
 1. The Bogleheads' Guide to Investing
 1. [Machine Learning Interviews Book by Huyen Chip](https://huyenchip.com/ml-interviews-book/)
