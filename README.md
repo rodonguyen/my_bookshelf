@@ -19,6 +19,7 @@ Books that I've read, am reading and will read (or will never read)
 1. Homo Deus
 1. The 3rd Door
 1. The Principles for dealing with The Changing World Order - Ray Dalio
+1. Clean Code
 1. The Art of Intrusion (50%)
 1. Principles by Ray Dalio
 1. The Dark Net
