@@ -16,17 +16,32 @@ Books that I've read, am reading and will read (or will never read)
 1. Homo Deus
 1. Throwing rocks at the Google bus
 1. The Dark Net
+1. Elon Musk - Walter Isaacson
+2. Guide to the Financial Market
+3. Computer Science in Life
 
 ## I'm reading
-1. Elon Musk - Walter Isaacson
-1. The intelligent investors
-1. The Principles for dealing with The Changing World Order - Ray Dalio
-1. Principles - Ray Dalio
-1. The 3rd Door
+1. So good they can't ignore you
+2. The software engineer's guidebook
+3. The intelligent investors
+1. The 4-hour workweek - Timothy Ferriss (50%)
 1. The Art of Intrusion (50%)
-1. The 4-hour workweek - Timothy Ferriss
 
 ## Books that I will read next
+- Principles - Ray Dalio
+- smart brevity
+- A Philosophy of Software Design
+- Mastering TypeScript: Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks, 4th
+- Node.js Design Patterns: Design…
+- How to work with people who think differently
+- The good door
+- The third door
+- prisoner of geography
+- Downloaded negotiation book
+- Pragmatic programmer
+- The phoenix project
+1. The Principles for dealing with The Changing World Order - Ray Dalio
+1. The 3rd Door
 1. [Machine Learning Interviews Book by Huyen Chip](https://huyenchip.com/ml-interviews-book/)
 1. The Bogleheads' Guide to Investing
 1. What we owe the future
